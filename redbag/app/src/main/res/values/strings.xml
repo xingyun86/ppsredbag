@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PPS红包助手</string>
+    <string name="main_name">红包助手</string>
+    <string name="accessibility_description">启动抢红包服务，支持微信/QQ。</string>
+    <string name="service_name">PPS红包助手</string>
+    <string name="open_service_title">需要开启辅助服务正常使用</string>
+    <string name="open_service_button">打开辅助服务</string>
+    <string name="tips">找到[PPS红包助手]，然后开启服务即可</string>
+    <string name="about_infos">支持QQ最新版本和微信最新版本(6.5.10)\n功能支持：双人红包、群聊红包的自动领取功能\n作者:xingyun86(523381005)\n交流论坛地址：www.ppsbbs.tech</string>
+</resources>
